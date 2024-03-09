@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.6.7",
+    "axios-low-encapsulation": "^1.0.4"
+  },
+  "name": "wind-engine",
+  "description": "Building plug-ins about the network, still under construction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "byte0x0",
+  "license": "ISC"
+}
